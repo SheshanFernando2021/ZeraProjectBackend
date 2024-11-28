@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "mssql2": {
+      "restored": true,
+      "restoreTime": "2024-11-28T18:09:12.7800356Z"
+    },
+    "mssql3": {
+      "restored": true,
+      "restoreTime": "2024-11-28T18:10:32.487341Z"
+    },
+    "apis1": {
+      "restored": true,
+      "restoreTime": "2024-11-25T09:24:14.266577Z"
+    },
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2024-11-28T18:09:40.4346608Z"
+    }
+  },
+  "parameters": {
+    "mssql3.subscriptionId": {
+      "Name": "mssql3.subscriptionId",
+      "Type": "subscription",
+      "Value": "ac118ec2-b575-4809-be3f-3285e7d5153d"
+    },
+    "mssql3.serviceConnectorResourceGroupName": {
+      "Name": "mssql3.serviceConnectorResourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "18thOctAzure"
+    },
+    "apis1.resourceGroupName": {
+      "Name": "apis1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "18thOctAzure"
+    },
+    "apis1.subscriptionId": {
+      "Name": "apis1.subscriptionId",
+      "Type": "subscription",
+      "Value": "ac118ec2-b575-4809-be3f-3285e7d5153d"
+    },
+    "mssql3.resourceGroupName": {
+      "Name": "mssql3.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "18thOctAzure"
+    }
+  }
+}

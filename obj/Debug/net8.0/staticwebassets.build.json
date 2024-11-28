@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "O/NKjTe8CmZIBhm7BkW4NUymabxBaTD56xVFDwFAsig=",
+  "Source": "ZeraAPI",
+  "BasePath": "_content/ZeraAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

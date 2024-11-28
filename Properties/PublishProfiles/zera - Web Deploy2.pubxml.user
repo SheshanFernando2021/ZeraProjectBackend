@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <History>True|2024-11-28T21:21:31.2021023Z||;True|2024-11-28T21:36:48.9916665+01:00||;True|2024-11-28T19:13:22.9141270+01:00||;True|2024-11-28T19:10:57.1472378+01:00||;True|2024-11-28T18:39:51.8046192+01:00||;True|2024-11-25T19:54:41.0891293+01:00||;True|2024-11-25T19:09:09.4847395+01:00||;True|2024-11-25T11:51:02.0771394+01:00||;True|2024-11-25T11:12:06.2822858+01:00||;True|2024-11-25T10:45:30.6100666+01:00||;True|2024-11-25T10:42:42.0074705+01:00||;True|2024-11-25T10:37:50.4482442+01:00||;True|2024-11-25T10:25:37.8427248+01:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <AzureDBConnectionStrings Include="Data Source=18thoctazuredbserver.database.windows.net,1433;Initial Catalog=zeraapi;Authentication=ActiveDirectoryManagedIdentity" />
+    <AzureDBConnectionStrings Include="REDACTED" />
+    <AzureDBConnectionStrings Include="Server=tcp:18thoctazuredbserver.database.windows.net;Authentication=Active Directory Default;Database=zeraapi" />
+  </ItemGroup>
+</Project>
