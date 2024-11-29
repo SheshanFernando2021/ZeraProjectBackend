@@ -24,14 +24,11 @@ Welcome to the **Zera E-Commerce Backend** repository! This project is the backb
 
 ---
 
-
----
-
 ## 🔧 Installation and Setup
 
 Follow these steps to run the backend locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YourUsername/ZeraBackend.git
-   cd ZeraBackend
+   git clone https://github.com/YourUsername/ZeraProjectBackend.git
+   cd ZeraProjectBackend
