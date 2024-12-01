@@ -1,5 +1,10 @@
 # 🌟 Zera E-Commerce Backend
 
+![](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+
 Welcome to the **Zera E-Commerce Backend** repository! This project is the backbone of the **Zera** e-commerce application, providing robust and secure APIs to handle user authentication, cart management, order processing, and much more. Built with the power of **.NET Core 8**, it ensures high performance and scalability.
 
 ---
