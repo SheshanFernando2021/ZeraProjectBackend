@@ -37,3 +37,6 @@ Follow these steps to run the backend locally:
    ```bash
    git clone https://github.com/YourUsername/ZeraProjectBackend.git
    cd ZeraProjectBackend
+   ```
+
+   ![](http://ForTheBadge.com/images/badges/built-with-love.svg)
